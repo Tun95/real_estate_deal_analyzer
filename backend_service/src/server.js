@@ -23,6 +23,7 @@ const corsOptions = {
     "https://realestateanalyzer.netlify.app",
     "https://realestateanalyzer.vercel.app",
     "https://realestateanalyzerapi.vercel.app",
+    "https://real-estate-deal-analyzer-e7l6.vercel.app",
     "http://localhost:5000",
     "http://localhost:3000",
     "http://localhost:3001",
